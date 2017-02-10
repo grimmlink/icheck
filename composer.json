@@ -1,0 +1,23 @@
+{
+  "name": "grimmlink/icheck",
+  "description": "Shim repository for Icheck",
+  "keywords": [
+    "icheck",
+    "checkbox",
+    "radio",
+    "input",
+    "field",
+    "form",
+    "custom",
+    "replacement",
+    "accessibility",
+    "skins",
+    "ui",
+    "checked",
+    "disabled",
+    "indeterminate"
+  ],
+  "homepage": "http://fronteed.com/iCheck/",
+  "license": "MIT"
+}
+
